@@ -16,22 +16,8 @@ Installation
 ## Clone the repository:
 bash
 Copy code
-git clone https://github.com/your-username/amazon-sales-analysis.git
-Navigate to the project directory:
-bash
-Copy code
-cd amazon-sales-analysis
+git clone (https://github.com/rohitgaikwad45/Amazon-Sales-Data-Analysis).git
 
-## Install required libraries:
-bash
-Copy code
-pip install -r requirements.txt
-Usage
-Open the Jupyter Notebook:
-bash
-Copy code
-jupyter notebook Amazon.ipynb
-Follow the step-by-step analysis in the notebook to reproduce results.
 
 ## Results
 Key findings include:
