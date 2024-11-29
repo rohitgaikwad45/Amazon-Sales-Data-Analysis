@@ -16,7 +16,7 @@ Installation
 ## Clone the repository:
 bash
 Copy code
-git clone (https://github.com/rohitgaikwad45/Amazon-Sales-Data-Analysis).git
+git clone (https://github.com/rohitgaikwad45/Amazon-Sales-Data-Analysis)
 
 
 ## Results
